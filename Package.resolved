@@ -1,0 +1,61 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MimeType",
+        "repositoryURL": "https://github.com/SketchMaster2001/MimeType.git",
+        "state": {
+          "branch": "master",
+          "revision": "d1d50ae4d2ca16ea816ecea02642fa2dfc2dbc7a",
+          "version": null
+        }
+      },
+      {
+        "package": "swift-log",
+        "repositoryURL": "https://github.com/apple/swift-log.git",
+        "state": {
+          "branch": null,
+          "revision": "5d66f7ba25daf4f94100e7022febf3c75e37a6c7",
+          "version": "1.4.2"
+        }
+      },
+      {
+        "package": "swift-nio",
+        "repositoryURL": "https://github.com/apple/swift-nio.git",
+        "state": {
+          "branch": null,
+          "revision": "124119f0bb12384cef35aa041d7c3a686108722d",
+          "version": "2.40.0"
+        }
+      },
+      {
+        "package": "swift-nio-ssl",
+        "repositoryURL": "https://github.com/apple/swift-nio-ssl.git",
+        "state": {
+          "branch": null,
+          "revision": "1750873bce84b4129b5303655cce2c3d35b9ed3a",
+          "version": "2.19.0"
+        }
+      },
+      {
+        "package": "Swiftcord",
+        "repositoryURL": "https://github.com/SketchMaster2001/Swiftcord",
+        "state": {
+          "branch": "dev",
+          "revision": "c751d431044bb6188790adc2b465181365a25418",
+          "version": null
+        }
+      },
+      {
+        "package": "websocket-kit",
+        "repositoryURL": "https://github.com/vapor/websocket-kit",
+        "state": {
+          "branch": "main",
+          "revision": "586745eb0528621b9d64b2632135c8cef82701d8",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
