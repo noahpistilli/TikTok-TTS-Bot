@@ -7,7 +7,7 @@ let package = Package(
     name: "Tik-Tok-TTS-Bot",
     platforms: [.macOS(.v12)],
     dependencies: [
-        .package(url: "https://github.com/SketchMaster2001/Swiftcord", .branch("dev"))
+        .package(url: "https://github.com/SketchMaster2001/Swiftcord", .branch("master"))
     ],
     targets: [
         .executableTarget(
